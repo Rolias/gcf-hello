@@ -32,9 +32,7 @@
   ],
   "author": "Tod Gentille",
   "license": "MIT",
-  "dependencies": {
-    "winston": "x"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/node": "^11.11.6",
     "chai": "x",
