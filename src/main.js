@@ -1,6 +1,6 @@
 // Seems GCF will look for an index.js file when the deploy command is run
 
-exports.loValidator = (req, res) => {
+exports.ipValidator = (req, res) => {
   res.status(200).send('I got the request')
 }
 
